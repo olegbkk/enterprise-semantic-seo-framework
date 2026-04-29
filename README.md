@@ -1,4 +1,4 @@
-# Enterprise Semantic SEO Framework (PHP)
+# Automated Semantic Schema Module (PHP)
 ## Automation Tool for Entity Alignment & YMYL Schema Orchestration
 
 ### 💡 The "Why" Behind This Code
