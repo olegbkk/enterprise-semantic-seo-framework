@@ -32,7 +32,6 @@ This module was a core technical component within the **Siam Rehab** growth stra
 I don't just design strategies; I build the technical assets that make them mathematically inevitable.
 
 *   **ORCID iD:** [0009-0009-8275-8483](https://orcid.org/0009-0009-8275-8483)
-*   **Wikidata:** [Q139495319](https://www.wikidata.org/wiki/Q139495319)
 *   **LinkedIn:** [olegbkk](https://www.linkedin.com/in/olegbkk/)
 
 ---
